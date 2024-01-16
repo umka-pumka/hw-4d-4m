@@ -1,0 +1,11 @@
+
+
+.cart-item{
+    display: flex;
+}
+
+.cart-item-left,
+.cart-item-right{
+    width: 50%;
+    display: flex;
+}
